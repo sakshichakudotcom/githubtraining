@@ -5,3 +5,6 @@ colours
 vibrant
 darkmode
 video options
+payment option
+sendmoney
+receive money
