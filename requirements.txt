@@ -5,3 +5,4 @@ colours
 vibrant
 darkmode
 video options
+display
